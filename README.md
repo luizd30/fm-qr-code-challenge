@@ -4,24 +4,24 @@ Este repositório contém múltiplas implementações do desafio **QR Code Compo
 
 ---
 
-## 🚀 Desafio
+## Desafio
 
 [Frontend Mentor - QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)  
 
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 O projeto está organizado em diferentes implementações:
 
-- [React]()
-- [Solid]()
-- [Svelte]()
+- [React](https://github.com/luizd30/fm-qr-code-challenge/tree/main/react)
+- [Solid](https://github.com/luizd30/fm-qr-code-challenge/tree/main/solid)
+- [Svelte](https://github.com/luizd30/fm-qr-code-challenge/tree/main/svelte)
 
 ---
 
-## 🎯 Conclusão
+## Conclusão
 
 O objetivo deste repositório é demonstrar como a **mesma UI pode ser construída com diferentes filosofias de frontend**, evidenciando trade-offs entre:
 
@@ -32,7 +32,7 @@ O objetivo deste repositório é demonstrar como a **mesma UI pode ser construí
 
 ---
 
-## 📌 Observação
+## Observação
 
 Cada implementação possui seu próprio README com detalhes técnicos específicos, decisões de arquitetura e padrões utilizados.
 
