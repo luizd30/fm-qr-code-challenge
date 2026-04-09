@@ -6,8 +6,8 @@ Este repositório contém múltiplas implementações do desafio **QR Code Compo
 
 ## 🚀 Desafio
 
-Frontend Mentor - QR Code Component  
-https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+[Frontend Mentor - QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)  
+
 
 ---
 
