@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --white: #ffffff;
+
+  --blue-500: #3685ff;
+  --blue-600: #2c7dfa;
+
+  --slate-300: #d5e1ef;
+  --slate-500: #68778d;
+  --slate-900: #1f314f;
+
+  --sans: "Outfit", system-ui, -apple-system, sans-serif;
+
+  --card-title-size: 22px;
+  --card-title-line: 1.2;
+
+  --card-description-size: 15px;
+  --card-description-line: 1.4;
+  --card-description-spacing: 0.2px;
+
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-10: 40px;
+
+  font-family: var(--sans);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#app {
+  width: 100%;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--slate-300);
+}
+
+#center {
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  place-items: center;
+  flex-grow: 1;
+}
