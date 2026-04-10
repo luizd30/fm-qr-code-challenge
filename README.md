@@ -18,6 +18,7 @@ O projeto está organizado em diferentes implementações:
 - [React](https://github.com/luizd30/fm-qr-code-challenge/tree/main/react)
 - [Solid](https://github.com/luizd30/fm-qr-code-challenge/tree/main/solid)
 - [Svelte](https://github.com/luizd30/fm-qr-code-challenge/tree/main/svelte)
+- [Vue](https://github.com/luizd30/fm-qr-code-challenge/tree/main/vue)
 
 ---
 
