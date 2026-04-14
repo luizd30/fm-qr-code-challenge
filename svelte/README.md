@@ -62,7 +62,7 @@ git clone https://github.com/luizd30/fm-qr-code-challenge.git
 2. Entre na pasta Svelte:
 
 ```bash
-cd fm-qr-code-component/Svelte
+cd svelte
 ```
 
 3. Instale as dependências:
