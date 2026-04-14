@@ -71,7 +71,7 @@ git clone https://github.com/luizd30/fm-qr-code-challenge.git
 2. Entre na pasta Solid:
 
 ```bash
-cd fm-qr-code-component/solid
+cd solid
 ```
 
 3. Instale as dependências:
