@@ -66,7 +66,7 @@ git clone https://github.com/luizd30/fm-qr-code-challenge.git
 2. Entre na pasta vue:
 
 ```bash
-cd fm-qr-code-component/vue
+cd vue
 ```
 
 3. Instale as dependências:
